@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StepsLeaderboard.WebAPI.Authentication;
+using StepsLeaderboard.WebAPI.DTO;
 
 namespace StepsLeaderboard.WebAPI.Controllers
 {

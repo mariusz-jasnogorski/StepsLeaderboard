@@ -1,4 +1,4 @@
-﻿namespace StepsLeaderboard.WebAPI.Authentication
+﻿namespace StepsLeaderboard.WebAPI.DTO
 {
     public class LoginRequest
     {

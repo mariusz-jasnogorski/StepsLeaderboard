@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using StepsLeaderboard.Core.Interfaces;
 using StepsLeaderboard.Core.Models;
+using StepsLeaderboard.WebAPI.DTO;
 
 namespace StepsLeaderboard.WebAPI.Controllers
 {
