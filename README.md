@@ -204,7 +204,7 @@ dotnet test
     o DatabaseSchemaControllerTests – testy kontrolera z użyciem EF Core
        InMemory (symulacja bazy).
 
-## Uwagi i dodatkowe informacje
+##  Uwagi i dodatkowe informacje
 
 ```
  GlobalExceptionMiddleware – przechwytuje wszystkie nieobsłużone wyjątki i
