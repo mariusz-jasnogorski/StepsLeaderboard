@@ -13,8 +13,7 @@ HardkorowyKodsu to przykładowa wieloprojektowa aplikacja w języku C#, składaj
 1. Opis
 2. Struktura rozwiązania
 3. Funkcjonalności
-4. Wymagania
-5. Uwagi i dodatkowe informacje
+4. Uwagi i dodatkowe informacje
 
 ---
 
